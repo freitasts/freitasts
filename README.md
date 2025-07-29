@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Freitas!
+# 👋 Hi there, I'm Tiago Freitas!
 
 I'm a passionate and results-driven **Power Platform & .NET Developer** who enjoys building efficient, scalable, and modern business solutions using Microsoft technologies.
 
